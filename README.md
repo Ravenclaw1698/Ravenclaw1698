@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m Sabbir Ahmed Shishir<br>👀 I’m interested in watching movies<br>🌱 I’m currently learning Java<br>💞️ I’m looking to collaborate on nothing rn<br>📫 How to reach me mail or facebook<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am unfunny af
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ravenclaw1698)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shishir.ahmed344) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_hi_shi_r) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/shishir1698) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sshishir344@gmail.com) 
