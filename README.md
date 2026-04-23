@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m Sabbir Ahmed Shishir<br>👀 I’m interested in watching movies<br>🌱 I’m currently learning Java<br>💞️ I’m looking to collaborate on nothing rn<br>📫 How to reach me mail or facebook<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am unfunny af
+<img width="300" height="234" alt="Image" src="https://github.com/user-attachments/assets/de600213-9a6f-4fe6-a617-17658d648238" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravenclaw1698)
 
