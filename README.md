@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Ravenclaw1698/main/7he%20R4.gif](https://github.com/Ravenclaw1698/Ravenclaw1698/blob/main/7he%20R4.gif)" />
+  <img src="https://github.com/Ravenclaw1698/Ravenclaw1698/blob/main/7he%20R4.gif" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravenclaw1698)
