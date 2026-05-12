@@ -1,4 +1,6 @@
-<img width="300" height="234" alt="Image" src="https://github.com/user-attachments/assets/de600213-9a6f-4fe6-a617-17658d648238" />
+<p align="center">
+  <img src="https://github.com/Ravenclaw1698/main/7he%20R4.gif" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravenclaw1698)
 
