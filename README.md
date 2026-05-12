@@ -15,9 +15,9 @@
         <li>🌱 Learning <strong>JavaScript and cloud deployment strategies</strong></li>
         <li>💬 Ask me about <strong>Python, Deep Learning</strong></li>
         <li>📫 Reach me at <strong>sshishir344@gmail.com</strong></li>
-        <li>📄 Find me on  <a href="https://www.linkedin.com/in/sabbir-ahmed-shishir-b226b5405/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="20"/></a></li>
+       
         
-      </ul>
+  </ul>
     </td>
     <td width="40%">
       <img src="https://github.com/Ravenclaw1698/Ravenclaw1698/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Fun GIF" width="100%" />
