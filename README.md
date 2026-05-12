@@ -4,6 +4,27 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravenclaw1698)
 
+<h1 align="center">Hi 👋🏼, I'm Sabbir Ahmed Shishir</h1>
+<h3 align="center">CS Undergrad | Data Science, AI, ML and LLM enthusiast</h3>
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 Working on <strong>Data Science pipelines and LLMs</strong></li>
+        <li>🌱 Learning <strong>JavaScript and cloud deployment strategies</strong></li>
+        <li>💬 Ask me about <strong>Python, Deep Learning</strong></li>
+        <li>📫 Reach me at <strong>sshishir344@gmail.com</strong></li>
+        <li>📄 Find me on  <a href="https://www.linkedin.com/in/sabbir-ahmed-shishir-b226b5405/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="20"/></a></li>
+        
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/Ravenclaw1698/Ravenclaw1698/blob/main/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="Fun GIF" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shishir.ahmed344) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_hi_shi_r) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/shishir1698) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sshishir344@gmail.com) 
